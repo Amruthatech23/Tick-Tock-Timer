@@ -1,0 +1,38 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    background-color: #f8f9f8;
+    margin-top: 170px;
+}
+
+.container {
+    display: inline-block;
+    padding: 90px;
+    border: 4px dashed #6fcf97;
+    border-radius: 12px;
+    background-color: #e3fceb;
+}
+
+h1{
+    font-size: 50px;
+}
+#display {
+    font-size: 48px;
+    margin-bottom: 20px;
+    color: #0e0d0d;
+}
+
+.buttons button {
+    padding: 10px 20px;
+    margin: 5px;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: #1fe873;
+    color: white;
+}
+
+.buttons button:hover {
+    background-color: #83f8b4;
+}
