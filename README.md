@@ -5,7 +5,7 @@ A simple stopwatch built using HTML, CSS, and JavaScript. It lets you start, pau
 
 # Screenshot
 
-
+![Screenshot](Screenshot.png)
 
 # Features
 
